@@ -29,3 +29,4 @@ This architecture enables **multi-modal**, **low-latency**, and **high-accuracy*
 
 ##  Architecture
 
+![638D6BE9-CAD5-46F8-BE03-AD6ADE69336D_4_5005_c](https://github.com/user-attachments/assets/577e2b9c-87b2-4ee0-a2a5-35b4924f2496)
