@@ -1,6 +1,6 @@
 # TinyMambaFormer: A Tiny Mamba-Transformer Hybrid for Efficient Human Activity Recognition (HAR)
 
-**Project Author**: Changyu 
+**Project Author**: Changyu Li
 **Date**: June 2025  
 **Keywords**: Human Activity Recognition, Mamba, Transformer, Edge AI, Multimodal Fusion, Temporal Modeling
 
